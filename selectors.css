@@ -1,0 +1,46 @@
+header {
+  border: 3px dashed black;
+}
+
+header ul li {
+  display: inline-block;
+  margin: 0 2em 0 2em;
+  list-style: none;
+}
+
+.disabled {
+  color: gray;
+}
+
+a.disabled {
+  color: purple;
+}
+
+.active {
+  color: yellow;
+}
+
+.redDivText {
+  color: red;
+}
+
+.blueDivText {
+  color: blue;
+}
+
+h4.redSister {
+  background-color: red;
+}
+
+h4.blueSister {
+  background-color: blue;
+}
+
+.promo {
+  font-weight: bold;
+  color: gold;
+}
+
+.textInputTall {
+  height: 25px;
+}
